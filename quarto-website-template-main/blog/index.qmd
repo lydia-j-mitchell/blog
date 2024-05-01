@@ -1,0 +1,22 @@
+---
+title: Blog
+---
+
+## "How to be a Modern Scientist" by Jeff Leek: A Student's Key Takeaways
+
+<img src="book.png" style="height: 100%; width: 100%; object-fit: contain">
+
+This past semester, I read through Jeff Leek's, "How to be a Modern Scientist". Leek's book focuses on being a guide for students and researchers alike on how to be a well-rounded scientist. Leek touches on many topics including communicating as a scientist, publishing research, paper writing, peer reviewing, and more. 
+
+After reading Leek's book and with a scientific presentation coming up, I found myself thinking a lot about his section on scientific talks. In this section, Leek breaks down how to give a scientific talk. While I wasn't giving a scientific talk, I found many of Leek's suggestions from this section useful for presenting my poster. Some of the main points I took away from this section and applied to my own presentation included catering your talk to your audience. At my particular presentation, I had a range of audience members from prospective students to other researchers to students to my PI. With each different audience member, I catered my presentation accordingly as to not overwhelm a prospective student with a bunch of unfamiliar jargon or to also really show my PI how well I understand my project. I also found Leek's section on answering hard questions to be really helpful. As I faced with hard questions during my poster presentation, I found Leek's advice to "Take a second and a deep breath. If necessary, ask the person to repeat the question. Answer the question the best you can come up with on the spot" really helpful. Looking at back on my previous presentations, I found that with this advice I was much more prepared for answering those hard questions. 
+
+
+
+
+
+
+
+
+
+
+

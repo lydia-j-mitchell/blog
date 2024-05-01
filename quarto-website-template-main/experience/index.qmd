@@ -1,0 +1,23 @@
+---
+title: Experience
+---
+
+## Undergraduate Research Student at the Suh Lab
+
+I am an undergraduate research student in the Suh Lab in the Department of Neuroscience where I have been for almost 2 years! My focus includes studying the role of newborn neurons in the development of temporal lobe epilepsy post pilocarpine injections in mouse models. My responsibilities include sectioning, staining, & mounting mouse brain tissue samples for imaging, capturing images of the hippocampus using specialized microscopes, counting the quantity of newborn neurons in the hilar area of the hippocampus, running qPCR samples to check the validity of RNA primers used in mouse models, conducting pilocarpine experiments in mice, performing perfusions to collect whole brain tissue samples, administering injections into mouse models, utilizing MatLab to run spike detection software to analyze the number of seizure spikes from raw EEG data, manually analyzing raw EEG data of experimental and control groups in mouse models for seizure activity, and performed immunohistochemistry on brain tissue samples.
+
+
+## Genetic Counselor Assistant at University Hospital's Center for Human Genetics
+
+I have been a genetics counselor assistant for almost 2 years now! My role involves processing insurance prior authorizations & BCMH applications, mailing & writing letters on behalf of providers to families, Calling & emailing patients families regarding appointments, faxing medical documents to other providers or companies, uploading & scanning paperwork into the electronic medical record system, transitioning paper medical files into the electronic system, aiding providers in ordering genetic testing, organizing genetic testing kits in the office.
+
+
+## Undergraduate Research Assistant at the Tartakoff Laboratory
+
+I was an undergraduate research student in the Tartakoff Lab in the Department of Microbiology with Case Western Reserve University. My focus was studying the function of various transcription in the nucleolus of yeast strains. My responsibilities included growing & analyzing various strains of yeast, using a microscope to compare different transcription factors within the nucleolus, capturing images to compare the prevalence of transcription factors, Ordering RNA primers for different strains of yeast, running PCR experiments to test the validity of primers.
+
+
+
+
+
+

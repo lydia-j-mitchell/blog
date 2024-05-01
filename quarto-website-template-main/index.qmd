@@ -1,0 +1,34 @@
+---
+about:
+  template: jolla
+  id: about-block
+  image: "img/front cover image.png"
+  links:
+    - icon: instagram
+      text: Instagram
+      href: https://www.instagram.com/lyddia.mi/
+    - icon: github
+      text: Github
+      href: https://github.com/lydia-j-mitchell
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/lydia-mitchell-03b435222/
+    - icon: envelope
+      text: Email
+      href: "mailto:mail.ljm130@case.edu"  
+---
+
+::: {#about-block}
+:::
+
+# Welcome to my website!
+
+My name is Lydia Mitchell! I am a 4th-year neuroscience major and 1st-year BS/MS in Biostatistics student at Case Western Reserve University in Cleveland, Ohio. I'm from Washington, DC, where I've lived for all of my life!
+
+As a neuroscience student, my research interests surround numerous neuroscience topics including neurogenesis, epilepsy, and Alzheimer's. I am an undergraduate research student at the Suh Lab at Cleveland Clinic's Lerner Research Institute. My current research involves studying the involvement of abnormal neurogenesis in the development of epilepsy in mouse models. 
+
+In addition to being a student, I am also involved in my campus community! I am member of the Delta Gamma sorority where I have held numerous leadership roles including being in charge of our philanthropy, Service for Sight! I am also a member of the premier Greek life leadership fraternity, Order of Omega. I am also a member of an organization called S.M.A.R.R.T. which stands for Students Meeting About Risk and Responsibility Training! Through this organization, we present to the Greek life chapters on campus on important issues such consent, substance use, and self-care. I am also a Study Abroad Ambassador for the Study Abroad office here at Case Western. 
+
+On this website, you will find a selection describing my current research, experience, blog, and my current C.V.! I invite you to explore my website and learn more about me!
+
+

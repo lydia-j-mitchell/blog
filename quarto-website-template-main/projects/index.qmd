@@ -1,0 +1,21 @@
+---
+title: Projects
+---
+
+## Hyper-Activation of Hippocampal Newborn Neurons Results in Abnormal Neurogenesis and Epileptogenesis in Mouse Model
+
+<img src="research photo.png" style="height: 100%; width: 100%; object-fit: contain">
+
+Here is the abstract of my current research project: "Epilepsy is a devastating neurological condition, affecting around 50 million people world-wide. However, The pathophysiology of epilepsy is not completely understood. Previous studies have reported that the abnormal neurogenesis in the dentate gyrus of the hippocampus contributes to the development of epilepsy. Neurogenesis is defined as the formation of new neurons from neural stem cells. Abnormal neurogenesis can follow brain injury, infection, or status epilepticus (SE). It is characterized by altered morphology, ectopic migration, altered dendrites, mossy fiber sprouting, and accelerated maturation This process generates hyperexcitable cells and a subsequent breakdown of the dentate gyrus gates, allowing for unregulated activity in recurrent seizures. Epileptogenesis is the process of changes occurring in the brain during the latent period after a triggering injury or illness, resulting in the development of spontaneous recurrent seizures (SRS). New models of epilepsy are now being created using Designer Receptors Exclusively Activated by Designer Drugs (DREADDs), which are engineered muscarinic receptors that allow for the inhibition or excitation of targeted neurons by exogenous ligands. The aim of this research is to determine the specific timepoints of aberrant neurogenesis and abnormal epileptiform activity following dentate granule cells specific activation post injection of Clozapine-N-Oxide. We hypothesize that using ASCL1-CreER-Ai3 (RCL-EYFP)/hM3Dq transgenic mice, chemogenetic activation of hippocampal newborn dentate granular cells will lead to abnormal neurogenesis, and the hyper-activation of hippocampal newborn neurons will lead to epileptogenesis." 
+
+I have had the opportunity to present this research at the 2023 Summer Student Symposium at Lerner Research Institute and Case Western's Fall 2023 Intersections Symposium!
+
+
+## Transcriptome Changes Involved in Epileptogenesis in Temporal Lobe Epilepsy Induced Mouse Models
+
+<img src="research photo2.png" style="height: 100%; width: 100%; object-fit: contain">
+
+Here is the project abstract: "Epilepsy is a devastating neurological condition, affecting around 50 million people world-wide, with Temporal Lobe Epilepsy (TLE) being the most common form. However, the pathophysiology of epilepsy is not completely understood. Around 30% of epilepsy cases are irretractable which means that they do not respond to medication management. Previous studies have reported that the abnormal neurogenesis in the dentate gyrus of the hippocampus contributes to the development of epilepsy. However, the molecular mechanisms behind the abnormal neurogenesis in epilepsy is still unclear. The aim of this study was to determine the disruptions in neurogenesis during the development of epilepsy at the transcriptome level. We first established a TLE mouse model by injecting pilocarpine into our C57/BL6 mice and studied epileptogenesis using EEG recording. Spike analysis and Racine scoring of seizures was used to determine severity of seizure activity. Hippocampi were collected from three timepoints for bulk RNA sequencing to identify differentially expressed genes at three different timepoints, the induction of the latent period following SE, the initiation of seizures, and the presence of spontaneous recurrent seizures (SRS). Neurogenesis markers and differentially expressed genes are currently being validated using qPCR. We predict that the qPCR validated RNA sequencing data will shed light on the underlying mechanism of abnormal neurogenesis and the molecular pathways involved in increased seizure severity in our TLE model. These findings in turn can pave the way for the discovery of new therapeutic targets of TLE."
+
+I had the opportunity to present this research as my senior capstone project at the Spring 2024 Intersections Symposium hosted by Case Western Reserve University!
+
